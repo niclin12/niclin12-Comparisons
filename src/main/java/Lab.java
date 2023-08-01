@@ -60,7 +60,7 @@ public class Lab {
     public boolean greaterThanOrEqualTo(int a, int b){
         if ( a >= b )
         {return true;}
-        else if ( a <= b);
+        else if ( a <= b) ;
         {return false;}
     }
     /**
